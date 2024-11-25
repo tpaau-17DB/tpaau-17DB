@@ -30,3 +30,11 @@ As for my nickname—it's just a random string with no deeper meaning.
 * *C*
 
 </details>
+
+<details>
+
+<summary></summary>
+
+</details>
+
+DM me on Discord: https://discord.com/users/mikolaj_archusr
