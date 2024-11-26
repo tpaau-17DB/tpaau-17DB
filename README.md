@@ -27,7 +27,7 @@ As for my nickname—it's just a random string with no deeper meaning.
 * *Rust* - briefly
 * *C#* - my first language
 * *C++*
-* *C*
+* *C* - also briefly, it's just similiar to C++
 
 </details>
 
