@@ -22,14 +22,9 @@ As for my nickname—it's just a random string with no deeper meaning.
 
 <summary>Languages I'm familiar with</summary>
 
-* *Python*
-* *lua*
-* *bash*
-* *Rust* - briefly
-* *C#* - my first language
-* *C++* 
-* *C* - also briefly as it's similiar to C++
+* Python
+* C#
+* Rust
+* C++ 
 
 </details>
-
-DM me on Discord: https://discord.com/users/mikolaj_archusr
