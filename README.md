@@ -11,7 +11,6 @@ As for my nickname—it's just a random string with no deeper meaning.
 * GNU/Linux
 * Cybersecurity
 * Online privacy
-* Programming
 * Computer graphics
 * Computer simulations
 
