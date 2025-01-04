@@ -19,7 +19,7 @@ As for my nickname—it's just a random string with no deeper meaning.
 
 <details>
 
-<summary>Languages I'm familiar with</summary>
+<summary>Languages I'm most familiar with</summary>
 
 * Python
 * C#
