@@ -1,14 +1,14 @@
 ## About me
 Hi, I'm **tpaau-17DB**, a coding enthusiast and self-taught developer from **Poland**.
 
-I proudly use **Arch** on my **ThinkPad T430**.
+I proudly use **Arch Linux** on my **ThinkPad T430**.
 
 <details>
 <summary>Languages I'm most familiar with</summary>
 
-* Python
-* C#
-* Rust
-* C++ 
+* `Python`
+* `C#`
+* `Rust`
+* `C++` 
 
 </details>
