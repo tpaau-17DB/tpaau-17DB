@@ -1,5 +1,5 @@
 ## About me
-Hi, I'm **tpaau-17DB**, a coding enthusiast and self-taught developer from **Poland**.
+Hi, I'm **tpaau-17DB**, a self-taught developer from **Poland**.
 
 I proudly use **Arch Linux** on my **ThinkPad T430**.
 
