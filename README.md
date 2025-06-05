@@ -10,10 +10,10 @@
 
 I'm ***tpaau-17DB***, a self-taught developer from **Poland**. I develop
 various CLI apps and other small utilities, video games, and other GUI apps,
-although not all of my projects are publicly available.
+although some of my projects are yet to be released.
 
-Apart from coding, I also do a little graphic design. All of the logos and
-wallpapers found in my repos, as well as my PFP, are made by me.
+I not only code but also create a little graphic design. All logos,
+wallpapers and other graphical assets in my repos are made by me.
 
 <details>
 <summary>Overview of the languages I know...</summary>
